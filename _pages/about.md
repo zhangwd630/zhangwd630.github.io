@@ -27,8 +27,25 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+%Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+%Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+%Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+Hi, I'm **Weidong Zhang**.
+
+I recently graduated with a **Master of Science in Data Analytics Engineering** from **Northeastern University Vancouver campus**. 
+My research and professional interests include:
+
+- Data analytics and machine learning  
+- Natural language processing and social computing  
+- Medical imaging and AI for healthcare  
+
+Some of the projects I have worked on:
+
+- **Reddit discussion analysis** focusing on intellectual humility and online behavior in different communities  
+- Course projects involving optimization models, database systems, and data visualization in Python, R, SQL, and Tableau  
+
+I enjoy exploring how data, algorithms, and human behavior interact in real-world systems.  
+Outside of research and study, I like trying new food, traveling, and learning new tools that make my work more efficient.
