@@ -38,7 +38,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Weidong. In Fall 2026, I will join Simon Fraser University as a PhD student in Computing Science, where I am honored to be advised by [**Prof. Marzena Karpinska**](https://marzenakrp.github.io/)! I look forward to beginning my PhD journey and exploring new research directions under Prof. Karpinska’s guidance.
+Hi, I’m Weidong. In Fall 2026, I will join Simon Fraser University as a PhD student in Computing Science, where I am honored to be advised by [Prof. Marzena Karpinska](https://marzenakrp.github.io/)! I look forward to beginning my PhD journey and exploring new research directions under Prof. Karpinska’s guidance.
 
 I graduated with an M.S. in Data Analytics Engineering from Northeastern University’s Vancouver campus. During my master’s studies and research assistantship, my work has spanned two main directions. In one line of work, I collaborate with Prof. Nabeel Gillani on intellectual humility in online political discourse, using large-scale Reddit data, LLM-based classifiers, and experimental interventions to study how online environments shape conversational behavior. In another line of work, I collaborate with Prof. Jeeho Ryoo on diffusion-based medical image generation, developing lesion-aware 3D diffusion models for synthetic MRI generation and evaluating their utility through image-quality metrics and downstream segmentation tasks.
 
