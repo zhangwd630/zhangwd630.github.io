@@ -56,3 +56,24 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+/*****************************************************************************
+* Profile contact icons
+*****************************************************************************/
+
+.profile-contact-icons {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  font-size: 1.7rem;
+}
+
+.profile-contact-icons a {
+  color: var(--global-theme-color);
+}
+
+.profile-contact-icons a:hover {
+  color: var(--global-hover-color);
+  text-decoration: none;
+}
