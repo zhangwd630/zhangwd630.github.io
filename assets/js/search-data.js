@@ -398,18 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-will-join-simon-fraser-university-as-a-phd-student-in-computing-science-in-fall-2026-and-i-am-honored-to-be-advised-by-prof-marzena-karpinska",
+            },},{id: "news-i-will-join-simon-fraser-university-as-a-phd-student-in-computing-science-in-fall-2026-and-i-am-honored-to-be-advised-by-prof-marzena-karpinska",
           title: 'I will join Simon Fraser University as a PhD student in Computing Science...',
           description: "",
           section: "News",},{id: "projects-project-1",
