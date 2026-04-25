@@ -6,7 +6,7 @@ subtitle: Incoming PhD Student in Computing Science at Simon Fraser University #
 
 profile:
   align: left
-  image: weidong_pic.jpg
+  image: weidong_pic3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <div class="profile-contact-icons">
