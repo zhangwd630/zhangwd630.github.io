@@ -2,13 +2,16 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: []
 horizontal: false
 ---
 
+This page is currently under construction. I will add selected research projects and ongoing work here as they develop.
+
+{% comment %}
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -63,3 +66,4 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+{% comment %}
