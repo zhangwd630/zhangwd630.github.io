@@ -18,3 +18,7 @@ nav_order: 3
 {% bibliography %}
 
 </div>
+
+<p class="publication-note">
+  * Denotes contributions of equal importance.
+</p>
